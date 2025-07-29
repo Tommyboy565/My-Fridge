@@ -1,0 +1,18 @@
+//
+//  CookingView.swift
+//  My Fridge
+//
+//  Created by Thomas Dini on 7/28/25.
+//
+
+import SwiftUI
+
+struct CookingView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    CookingView()
+}
